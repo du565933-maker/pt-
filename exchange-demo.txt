@@ -1,0 +1,18 @@
+exchange-demo/
+│
+├─ index.html          # 首页
+├─ login.html          # 登录页
+├─ register.html       # 注册页
+├─ trade.html          # 交易页
+├─ style.css           # 样式表
+├─ script.js           # 公共 JS（多语言切换 + 轮播）
+├─ firebase.js         # Firebase 配置
+├─ images/             # 图片资源
+│   ├─ logo.png
+│   ├─ slide1.png
+│   ├─ slide2.png
+│   └─ slide3.png
+└─ lang/
+    ├─ zh.json         # 中文文本
+    └─ en.json         # 英文文本
+
